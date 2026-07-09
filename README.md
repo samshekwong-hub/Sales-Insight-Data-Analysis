@@ -8,4 +8,5 @@ Please import the **SQL script** in your **MySQL** database & open the **Power B
 
 ### Credits
 This project is built step-by-step by referring **codebasics**'s Power BI tutorial
+
 Source: https://www.youtube.com/watch?v=pbOJVEsZKJ8
