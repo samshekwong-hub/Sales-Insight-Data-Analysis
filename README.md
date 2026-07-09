@@ -7,6 +7,6 @@ Please import the **SQL script** in your **MySQL** database & open the **Power B
 <img width="606" height="378" alt="power_bi_indian" src="https://github.com/user-attachments/assets/c400c4cb-0db8-487d-9d8f-17ecefee8e17" />
 
 ### Credits
-This project is built step-by-step by referring **codebasics**'s Power BI tutorial
+This project is built step-by-step by referring **codebasics**'s Power BI tutorial. Many thanks!
 
 Source: https://www.youtube.com/watch?v=pbOJVEsZKJ8
